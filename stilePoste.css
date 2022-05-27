@@ -1,0 +1,58 @@
+#TitoloHome{
+    text-align: center;
+    color: blue;
+}
+
+#sottoimg{
+    text-align: center;
+    margin: 0%;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    color: blue;
+    background-color: #deddd9;
+}
+
+.TitleUpPage{
+    text-align: center;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    color: blue;
+    background-color: yellow;
+}
+
+.Subtitle{
+    width: fit-content;
+    color: blue;
+    background-color: yellow;
+}
+
+table,td,th {
+    border: 2px solid #000;
+    padding: 3px;
+}
+
+.header{
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.nav-links .li-links{
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.nav-links .li-links a{
+    background-color: yellow;
+    color: blue;
+    padding: 5px 0;
+}
